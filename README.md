@@ -3,3 +3,11 @@ up to the mark as it requires large man force and it also requires more time to 
 The new method does not force the person’s physical appearance to vote.
 The face scanning system is used to record the voters face prior to the election and is useful at the time of voting. 
 This system also enables the user the citizens to see the results anytime.
+
+Advantages:
+
+Enhanced Security
+Improved Transparency
+Greater Accessibility
+Cost Efficiency
+Real-Time Results
